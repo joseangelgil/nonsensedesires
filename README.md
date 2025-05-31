@@ -1,12 +1,59 @@
-# React + Vite
+# 🛒 NonSenseDesireS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive landing page with a minimalist design and a humorous take on online shopping.  
+> 🖥️📱 This project is compatible with both desktop and mobile/touch devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Description
 
-## Expanding the ESLint configuration
+This project was built **from scratch** as part of my personal learning journey in software development.  
+It helped me strengthen my skills in:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML
+- CSS
+- JavaScript
+- React
+
+**NonSenseDesireS** is a parody e-commerce landing page that showcases ridiculous products nobody needs — but you might still want.
+
+---
+
+## 🧪 Features
+
+- A selection of completely **useless yet oddly tempting products**
+- Add items to the **shopping cart**
+- Interact with two main actions:
+  - **Clear**: Empties the cart
+  - **Proceed to Payment**: Triggers a humorous message questioning your life choices
+
+This page is meant for fun and experimentation — no real purchases involved 😉
+
+---
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+
+---
+
+## ⚠️ Requirements
+
+- Fully responsive — works on both **desktop and mobile** browsers
+- Best experienced in **Chrome** or **Firefox**
+
+---
+
+## 👨‍💻 Author
+
+Developed by **author**  
+GitHub: [@author](https://github.com/author)
+
+---
+
+## 📷 Screenshot
+
+![App screenshot](img/screenshot.png)
