@@ -10,10 +10,10 @@ A responsive landing page with a minimalist design and a humorous take on online
 This project was built **from scratch** as part of my personal learning journey in software development.  
 It helped me strengthen my skills in:
 
-- HTML
-- CSS
-- JavaScript
 - React
+- Tailwind CSS
+- JavaScript (ES6+)
+- Component-based UI design
 
 **NonSenseDesireS** is a parody e-commerce landing page that showcases ridiculous products nobody needs — but you might still want.
 
@@ -33,10 +33,10 @@ This page is meant for fun and experimentation — no real purchases involved �
 
 ## 💻 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
 - React
+- Tailwind CSS
+- JavaScript (Vanilla + JSX)
+- Vite
 
 ---
 
@@ -49,11 +49,11 @@ This page is meant for fun and experimentation — no real purchases involved �
 
 ## 👨‍💻 Author
 
-Developed by **author**  
-GitHub: [@author](https://github.com/author)
+Developed by **Jose Angel Gil**  
+GitHub: [@joseangelgil](https://github.com/joseangelgil)
 
 ---
 
 ## 📷 Screenshot
 
-![App screenshot](img/screenshot.png)
+![App screenshot](src/assets/images/screenshot.png)
